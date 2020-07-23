@@ -1,4 +1,4 @@
 
 <?php
-$a = "Master";
+$a = "Master"; //коммент
 ?>
